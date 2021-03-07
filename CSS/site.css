@@ -13,8 +13,8 @@ body {
 }
 
 .profile-avatar{
-    width: 150px;
-    height: 150px;
+    width: 80%;
+    height: 80%;
 }
 
 .background-color-black{
@@ -71,7 +71,7 @@ body {
 .logo-avatar{
     width: 180px;
     height: 150px;
-    margin-top:50px;
+    margin-top:-15%;
 }
 
 .education{
