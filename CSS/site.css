@@ -61,7 +61,7 @@ body {
 }
 
 .color-blue{
-    color:blue;
+    color:#0a66c2;
 }
   
 .color-grey{
@@ -80,8 +80,13 @@ body {
 }
 
 .background-color-blue{
-    background-color: blue;
+    background-color: #0a66c2;
     
+}
+
+.background-color-blue-light
+{
+    background-color:#009fff;
 }
 
 .back-end,.font-end,.other{
@@ -128,7 +133,7 @@ footer{
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
-    background-color: blue;
+    background-color:#0a66c2;
     text-align: center;
 }
 
